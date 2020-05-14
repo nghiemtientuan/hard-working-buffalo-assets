@@ -1,0 +1,24 @@
+.background-image-hero1 {
+    background-image: url('../Client/images/hero_1.jpg');
+}
+
+.background-image-bg_1 {
+    background-image: url('../Client/images/bg_1.jpg');
+}
+
+.background-image-about_1 {
+    background-image: url('../Client/images/about_1.jpg');
+}
+
+.background-primary {
+    background-color: #00c853;
+    color: #fff;
+}
+
+.w-20 {
+    width: 20%;
+}
+
+.mw-60 {
+    max-width: 60%;
+}
